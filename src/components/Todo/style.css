@@ -1,0 +1,19 @@
+.Todo {
+    background:salmon;
+    border-radius: 40px 0;
+    box-shadow: 5px 5px 5px 5px black;
+    border:1px solid black;
+    width:80vw;
+    margin:20px auto;
+    min-height:20vh;
+}
+
+.Todo  .high {
+    background:red
+}
+.Todo  .med {
+    background:yellow
+}
+.Todo  .low {
+    background:green
+}
